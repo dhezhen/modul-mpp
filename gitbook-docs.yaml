@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Modul Praktikum Pemrograman Multiple Platform
+  structure:
+    - type: space
+      key: modul-mpp
+      title: Modul MPP
+      path: modul
+      default: true
+      content:
+        directory: ./
